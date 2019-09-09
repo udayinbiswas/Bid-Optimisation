@@ -1,1 +1,0 @@
-./tower_allocation $1 $2
