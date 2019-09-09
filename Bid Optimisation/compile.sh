@@ -1,1 +1,0 @@
-g++ -o tower_allocation tower_allocation.cpp
